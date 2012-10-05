@@ -17,3 +17,4 @@
 *~
 doc/app
 doc/api
+config/database.yml
