@@ -22,7 +22,7 @@ end
 
 group :development do
   gem 'taps'
-  gem 'sqlite'
+  gem 'sqlite3'
 end
 gem 'jquery-rails'
 
